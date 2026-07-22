@@ -87,7 +87,7 @@ While working on this project, I learned:
 ```
 Retail-Sales-EDA
 │
-├── Retail_Sales_EDA.ipynb
+├── retail_sales_analysis.ipynb
 ├── retail_sales_dataset.csv
 └── README.md
 ```
