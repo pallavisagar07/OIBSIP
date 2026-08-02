@@ -159,13 +159,13 @@ House-Price-Prediction-Linear-Regression/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/House-Price-Prediction-Linear-Regression.git
+git clone https://github.com/yourusername/OIBSIP.git
 ```
 
 ### 2. Navigate to the Project Folder
 
 ```bash
-cd House-Price-Prediction-Linear-Regression
+cd OIBSIP/DataAnalytics-L2-House-Price-Prediction-Linear-Regression
 ```
 
 ### 3. Install Dependencies
@@ -180,7 +180,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-Open **House_Price_Prediction.ipynb** and run all cells.
+Open **House_Price_Prediction_Linear_Regression.ipynb** and run all cells.
 
 ---
 
