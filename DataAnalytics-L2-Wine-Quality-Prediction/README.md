@@ -124,13 +124,13 @@ Wine-Quality-Prediction/
 1. Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/Wine-Quality-Prediction.git
+git clone https://github.com/yourusername/OIBSIP.git
 ```
 
 2. Navigate to the project directory
 
 ```bash
-cd Wine-Quality-Prediction
+cd OIBSIP/DataAnalytics-L2-Wine-Quality-Prediction
 ```
 
 3. Install the required Python libraries (if not already installed)
