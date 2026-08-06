@@ -165,7 +165,7 @@ git clone https://github.com/your-username/OIBSIP.git
 2. Navigate to the project directory.
 
 ```bash
-cd OIBSIP/DataAnalytics-L2-Customer-Segmentation-Analysis
+cd OIBSIP/DataAnalytics-L1-Customer-Segmentation-Analysis
 ```
 
 3. Launch Jupyter Notebook.
